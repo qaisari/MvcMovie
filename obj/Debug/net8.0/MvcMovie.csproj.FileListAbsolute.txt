@@ -32,3 +32,4 @@ C:\Users\qaisa\Desktop\NJE\semester5\Server side application\Practice\MvcMovie\o
 C:\Users\qaisa\Desktop\NJE\semester5\Server side application\Practice\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
 C:\Users\qaisa\Desktop\NJE\semester5\Server side application\Practice\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
 C:\Users\qaisa\Desktop\NJE\semester5\Server side application\Practice\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
+C:\Users\qaisa\Desktop\NJE\semester5\Server side application\Practice\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
