@@ -108,7 +108,7 @@ namespace MvcMovie.Controllers
                     }
                     else
                     {
-                        throw;
+                        throw; 
                     }
                 }
                 return RedirectToAction(nameof(Index));
